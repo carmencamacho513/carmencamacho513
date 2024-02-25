@@ -4,8 +4,8 @@
 
 Mis repositorios destacan mi dedicación a explorar y entender datos para obtener insights valiosos. :bar_chart:
 
-Con experiencia en Python, SQL y herramientas como Big Query, Google Colab, Power Bi, y más, 
-demuestro mi capacidad para abordar problemas complejos y ofrecer soluciones basadas en datos.
+Con manejo en Python, SQL y herramientas como Big Query, Google Colab, Power Bi, y más, 
+demuestro mi capacidad para abordar problemas y ofrecer soluciones basadas en datos.
 
 ### 👀 ¡Explora mis proyectos para conocer más!
        
