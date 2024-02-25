@@ -15,6 +15,6 @@ demuestro mi capacidad para abordar problemas y ofrecer soluciones basadas en da
 
 :diamond_shape_with_a_dot_inside: [LikendIn](https://www.linkedin.com/in/carmen-julia-camacho-espitia-0a26281b0/)
 
-:e-mail: [Email](carmencamacho513@gmail.com)
+:e-mail: Email: carmencamacho513@gmail.com
 
 
