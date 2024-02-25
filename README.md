@@ -1,4 +1,4 @@
- ### 👋 Hola! ¡Bienvenido a mi perfil de GitHub!
+ ### 👋 Hola! :colombia: ¡Bienvenido a mi perfil de GitHub! 
  
  :woman_technologist: Soy Carmen Camacho, una analista apasionada por descubrir historias a través de los datos.
 
@@ -13,7 +13,7 @@ demuestro mi capacidad para abordar problemas complejos y ofrecer soluciones bas
 
 ¡Contáctame!
 
-[LikendIn:] (https://www.linkedin.com/in/carmen-julia-camacho-espitia-0a26281b0/)
-[Email:] (https://github.com/carmencamacho513)
+[LikendIn:](https://www.linkedin.com/in/carmen-julia-camacho-espitia-0a26281b0/)
+[Email:](https://github.com/carmencamacho513)
 
 
