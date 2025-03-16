@@ -1,6 +1,5 @@
  ### 👋 Hola! :earth_americas: ¡Bienvenido a mi perfil de GitHub! :palms_up_together:
-
-![Mi Banner](https://raw.githubusercontent.com/nombreusuario/nombreusuario/main/Banner%20GitHub.png)
+https://github.com/carmencamacho513/bannerGitHub/blob/73fd7740ca025f0f07f7fc5329ada2239f68d10b/Banner%20GitHub.png
 
 
  
