@@ -1,6 +1,6 @@
  ### 👋 Hola! :earth_americas: ¡Bienvenido a mi perfil de GitHub! :palms_up_together:
 
-bannerGitHub/Banner GitHub.png
+#bannerGitHub/Banner GitHub.png
 
  
  :woman_technologist: Soy Carmen Camacho, una analista apasionada por descubrir historias a través de los datos.
